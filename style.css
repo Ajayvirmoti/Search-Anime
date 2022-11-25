@@ -29,7 +29,7 @@ h1{
     margin: auto;
 }
 
-input[type="search"]{
+input[type="radio"]{
     outline: none;
     height: 40px;
     padding: 5px;
